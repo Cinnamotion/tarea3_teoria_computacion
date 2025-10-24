@@ -1,0 +1,11 @@
+PROGRAM ERROR
+INTEGER X
+REAL Y
+X = 5 * / 10;
+IF (X < 10) THEN
+    Y = 1.0
+ENDIF
+DO Z = 1, 10
+    X = X + 1;
+ENDDO
+END
